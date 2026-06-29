@@ -2,14 +2,14 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer | Frontend Specialist | Problem Solver
+### 🚀 MERN Stack Developer | Building Scalable Web Applications
 
-Passionate developer focused on building scalable web applications, modern UI experiences, and backend systems that solve real-world problems.
+Passionate developer specialized in creating modern full-stack applications using the MERN stack with clean architecture, scalable APIs, and high-performance user experiences.
 
-🌐 Portfolio: iamsahilmallick.in
-💻 Open Source Enthusiast
-🔥 2.5+ Years Professional Experience
-📍 India
+🌐 Portfolio: https://iamsahilmallick.in
+💼 MERN Stack Developer
+🔥 2.6+ Years of Professional Experience
+📍 India, Kolkata
 
 </div>
 
@@ -17,20 +17,21 @@ Passionate developer focused on building scalable web applications, modern UI ex
 
 ## 👨‍💻 About Me
 
-I am a passionate software developer with professional experience building modern web applications using JavaScript technologies.
+I am a passionate **MERN Stack Developer** focused on building scalable and production-ready web applications.
 
-I enjoy solving complex frontend and backend problems while writing clean, scalable, and maintainable code.
+I specialize in developing end-to-end applications — from creating responsive frontend interfaces to designing secure backend APIs and managing database architecture.
 
-My main focus areas include:
+I enjoy solving real-world engineering problems while writing clean, maintainable, and efficient code.
 
-* Building high-performance web applications
-* Creating scalable backend APIs
-* Database architecture and optimization
-* System design and clean architecture
-* Open source contribution
-* Learning modern technologies continuously
+What I work on:
 
-I believe in writing production-grade code rather than just making things work.
+* Full Stack Web Development
+* REST API Development
+* Scalable Backend Architecture
+* Database Design & Optimization
+* Authentication & Authorization Systems
+* Performance Optimization
+* Clean Code Architecture
 
 ---
 
@@ -44,7 +45,7 @@ I believe in writing production-grade code rather than just making things work.
 
 * HTML5
 * CSS3
-* JavaScript
+* JavaScript (ES6+)
 * TypeScript
 * React.js
 * Next.js
@@ -62,10 +63,11 @@ I believe in writing production-grade code rather than just making things work.
 
 * Node.js
 * Express.js
-* REST API Development
-* Authentication & Authorization
+* REST APIs
 * JWT Authentication
-* API Security
+* Middleware Architecture
+* Role Based Access Control
+* API Security & Validation
 
 ---
 
@@ -78,166 +80,64 @@ I believe in writing production-grade code rather than just making things work.
 * MongoDB
 * Mongoose ODM
 * Aggregation Pipeline
-* Database Optimization
+* Query Optimization
 * Schema Design
-* Query Performance Optimization
+* Data Modeling
 
 ---
 
-### Tools & DevOps
+## 💼 Experience
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,firebase,docker" />
-</p>
+### MERN Stack Developer
 
-* Git
-* GitHub
-* Postman
-* VS Code
-* Firebase
-* Docker
-* Deployment & CI/CD
+Working on production-level applications and handling:
+
+* Responsive Frontend Development
+* API Development using Node.js & Express
+* MongoDB Database Architecture
+* Authentication Systems
+* Admin Dashboard Development
+* API Integration
+* State Management
+* Performance Optimization
+* Bug Fixing & Debugging
 
 ---
 
-## 💼 Professional Experience
+## 🛠 Projects I Build
 
-### Software Developer
+### Full Stack Applications
 
-Working on production-level web applications with responsibilities including:
-
-* Developing scalable frontend applications
-* Building reusable React components
-* Creating REST APIs using Node.js and Express
-* Managing MongoDB database architecture
-* Authentication and authorization systems
-* Performance optimization
-* Debugging production issues
-* Writing clean maintainable code
+* Authentication Systems
+* Blog Platforms
+* Admin Dashboards
+* CRM Systems
+* Role Based Access Applications
+* E-commerce Platforms
 
 ---
 
 ## 🔥 Current Focus
 
-Currently working on:
+Currently improving my skills in:
 
 * Advanced Backend Development
 * System Design
-* MongoDB Performance Optimization
-* Building Reusable NPM Packages
-* AI Integrated Applications
-* Open Source Contributions
+* Scalable Architecture
+* MongoDB Optimization
+* Docker
+* Microservices
+* Open Source Development
+
+
+## 🤝 Connect With Me
+
+GitHub → https://github.com/iamsahilmallick
+
+LinkedIn → https://in.linkedin.com/in/sahil-mallick-795921246
+
+Portfolio → https://iamsahilmallick.in
+
+Email → iamsahilmallick@gmail.com
 
 ---
-
-## 📂 Featured Projects
-
-### 🔹 Full Stack Web Applications
-
-Developed complete frontend + backend applications using modern JavaScript technologies.
-
-**Tech Used**
-
-* React.js
-* Next.js
-* Node.js
-* Express.js
-* MongoDB
-
----
-
-### 🔹 Admin Dashboard Systems
-
-Built scalable admin dashboards with:
-
-* Authentication
-* Analytics
-* Charts
-* User Management
-* API Integration
-* Role Based Access Control
-
----
-
-### 🔹 API Development
-
-Built scalable backend systems with:
-
-* JWT Authentication
-* Role Management
-* File Upload
-* MongoDB Aggregation
-* Error Handling Middleware
-* Secure Architecture
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Node.js
-* Microservices Architecture
-* System Design
-* Docker & Kubernetes
-* AWS Cloud
-* AI Integrations
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://iamsahilmallick.in">
-🌐 Portfolio Website
-</a>
-
-</p>
-
----
-
-## ⚡ Developer Philosophy
-
-```javascript
-while(alive){
-    learn();
-    build();
-    improve();
-    repeat();
-}
-```
-
----
-
-## 💡 Fun Fact
-
-I don't just write code.
-
-I solve problems, optimize systems, and build products that create impact.
-
----
-
-⭐ Always learning.
-⭐ Always building.
-⭐ Always improving.
